@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Log.i("My App", "Button Press");
                 Toast.makeText(getApplicationContext(),"Ayyye", Toast.LENGTH_SHORT).show();
-
             }
         });
     }
